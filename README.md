@@ -202,13 +202,14 @@ frontend
 
 ### BackEnd
 
+```
 backend/memetionary
 ├── gradle/wrapper
 │ ├── gradle-wrapper.jar
 │ └── gradle-wrapper.properties
-├── src  
+├── src
 │ ├── main
-│ │ ├── java/com/ssafy/memtionary  
+│ │ ├── java/com/ssafy/memtionary
 │ │ │ ├── common
 │ │ │ │ ├── controller
 │ │ │ │ ├── ...
@@ -248,7 +249,7 @@ backend/memetionary
 │ │ │ │
 │ │ │ └── MemetionaryApplication.java
 │ │ │
-│ │ └── resources/elasticsearch  
+│ │ └── resources/elasticsearch
 │ │ ├── word-mapping.json
 │ │ └── word-setting.json
 │ │
@@ -256,8 +257,8 @@ backend/memetionary
 │ ├── word-mapping.json
 │ └── word-setting.json
 │
-├── build.gradle  
-├── settings.gradle  
+├── build.gradle
+├── settings.gradle
 ├── gradlew
 └── gradlew.bat
 
@@ -290,4 +291,7 @@ backend/memetionary
 <br/>
 
 [🔼 목차로 돌아가기](#목차)
+
+```
+
 ```
