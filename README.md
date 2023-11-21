@@ -202,78 +202,65 @@ frontend
 
 ### BackEnd
 
-```
 backend/memetionary
 ├── gradle/wrapper
-│		      ├──  gradle-wrapper.jar
-│		      └──  gradle-wrapper.properties
-├── src
-│    ├──  main
-│		 │    ├──  java/com/ssafy/memtionary
-│		 │    │    ├── common
-│		 │    │    │    ├──  controller
-│		 │    │    │    ├──  dto
-│		 │    │    │    ├──  entity
-│		 │    │    │    ├──  exception
-│		 │    │    │    └──  CustomErrorType.java
-│		 │    │    ├── declaration
-│		 │    │    │    ├──  controller
-│		 │    │    │    ├──  dto
-│		 │    │    │    ├──  entity
-│		 │    │    │    ├──  repository
-│		 │    │    │    └──  service
-│		 │    │    ├── hashtag
-│		 │    │    │    ├──  entity
-│		 │    │    │    ├──  repository
-│		 │    │    │    └──  service
-│		 │    │    ├── link
-│		 │    │    │    ├──  entity
-│		 │    │    │    ├──  repository
-│		 │    │    │    └──  service
-│		 │    │    ├── member
-│		 │    │    │    ├──  controller
-│		 │    │    │    ├──  dto
-│		 │    │    │    ├──  entity
-│		 │    │    │    ├──  repository
-│		 │    │    │    └──  service
-│		 │    │    ├── oauth2
-│		 │    │    │    ├──  domain
-│		 │    │    │    ├──  dto
-│		 │    │    │    ├──  filter
-│		 │    │    │    ├──  handler
-│		 │    │    │    ├──  service
-│		 │    │    │    ├──  token
-│		 │    │    │    └──  repository
-│		 │    │    ├── word
-│		 │    │    │    ├──  controller
-│		 │    │    │    ├──  dto
-│		 │    │    │    ├──  entity
-│		 │    │    │    ├──  repository
-│		 │    │    │    └──  service
-│		 │    │    ├── wordes
-│		 │    │    │    ├──  controller
-│		 │    │    │    ├──  dto
-│		 │    │    │    ├──  entity
-│		 │    │    │    ├──  repository
-│		 │    │    │    └──  service
-│		 │    │    ├── config
-│        │    │    │    └── ...
-│		 │    │    ├── util
-│        │    │    │
-│		 │    │    └── MemetionaryApplication.java
-│		 │    │
-│		 │    └──  resources/elasticsearch
-│		 │         ├── word-mapping.json
-│		 │         └── word-setting.json
-│		 │
-│        └──  test/java/com/ssafy/memtionary
-│		      ├── word-mapping.json
-│             └── word-setting.json
+│ ├── gradle-wrapper.jar
+│ └── gradle-wrapper.properties
+├── src  
+│ ├── main
+│ │ ├── java/com/ssafy/memtionary  
+│ │ │ ├── common
+│ │ │ │ ├── controller
+│ │ │ │ ├── ...
+│ │ │ │ └── CustomErrorType.java
+│ │ │ ├── declaration
+│ │ │ │ ├── controller
+│ │ │ │ ├── ...
+│ │ │ │ └── service
+│ │ │ ├── hashtag
+│ │ │ │ ├── entity
+│ │ │ │ ├── repository
+│ │ │ │ └── service
+│ │ │ ├── link
+│ │ │ │ ├── entity
+│ │ │ │ ├── repository
+│ │ │ │ └── service
+│ │ │ ├── member
+│ │ │ │ ├── controller
+│ │ │ │ ├── ...
+│ │ │ │ └── service
+│ │ │ ├── oauth2
+│ │ │ │ ├── domain
+│ │ │ │ ├── ...
+│ │ │ │ ├── token
+│ │ │ │ └── repository
+│ │ │ ├── word
+│ │ │ │ ├── controller
+│ │ │ │ ├── ...
+│ │ │ │ └── service
+│ │ │ ├── wordes
+│ │ │ │ ├── controller
+│ │ │ │ ├── ...
+│ │ │ │ └── service
+│ │ │ ├── config
+│ │ │ │ └── ...
+│ │ │ ├── util
+│ │ │ │
+│ │ │ └── MemetionaryApplication.java
+│ │ │
+│ │ └── resources/elasticsearch  
+│ │ ├── word-mapping.json
+│ │ └── word-setting.json
+│ │
+│ └── test/java/com/ssafy/memtionary
+│ ├── word-mapping.json
+│ └── word-setting.json
 │
-├── build.gradle
-├── settings.gradle
+├── build.gradle  
+├── settings.gradle  
 ├── gradlew
 └── gradlew.bat
+
 ```
 
 <br/>
@@ -303,3 +290,4 @@ backend/memetionary
 <br/>
 
 [🔼 목차로 돌아가기](#목차)
+```
