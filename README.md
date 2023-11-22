@@ -62,23 +62,17 @@
 
 ## :cactus: 빌드 환경
 
-| FrontEnd                | BackEnd                                      | Database      | Infra                        |
-| :---------------------- | :------------------------------------------- | :------------ | :--------------------------- |
-| Node.js 18.16.1         | Java 17 (Azul Zulu version 17.0.8)           | MySQL         | Vultr EC2 (Ubuntu 20.04 LTS) |
-| React.js 18.2.0         | Spring Boot 3.1.4                            | Redis         | Vultr Kubernetes             |
-| react-dom 18.2.0        | Gradle 8.2.1                                 | Elasticsearch | Nginx 1.18.0                 |
-| react-icons 4.10.1      | JPA                                          | MongoDB       | Jenkins 2.401.2 LTS          |
-| react-modal 3.16.1      | IntelliJ IDEA 2023.1.3<br>(Ultimate Edition) |               | Docker 23.0.6                |
-| react-router-dom 6.14.2 | lombok                                       |               | Docker Compose 2.17.3        |
-| react-scripts 5.0.1     | mail                                         |
-| react-select 5.7.4      | JWT                                          |
-| Axios 1.4.0             |
-| Recoil 0.7.7            |
-| recoil-persist 5.1.0    |
-| styled-components 6.0.6 |
-| yarn 1.22.19            |
-| openvidu-browser 2.28.0 |
-| web-vitals 2.1.4        |
+| FrontEnd                | BackEnd                                      | Database            | Infra                        |
+| :---------------------- | :------------------------------------------- | :------------       | :--------------------------- |
+| React 18.2.0            | Java 17 (Azul Zulu version 17.0.8)           | MySQL 8.0.33        | Vultr EC2 (Ubuntu 20.04 LTS) |
+| Next.js 13.5.4          | Spring Boot 3.1.4                            | Redis 7.2.1         | Vultr Kubernetes 1.27.6      |
+| TypeScript 5.2.2        | Gradle 8.2.1                                 | Elasticsearch 8.7.1 | Nginx 1.18.0                 |
+| Recoil 0.7.7            | Spring Data JPA                              |                     | Jenkins 2.427                |
+| React-Query 5.0.5       | IntelliJ IDEA 2023.1.3<br>(Ultimate Edition) |                     | Docker latest                |
+| ModuleCSS               | lombok                                       |                     | LoadBalancer                 |
+| HTML5                   | JWT                                          |
+| yarn berry 3.6.4        |
+| node 18.17.1 LTS        |
 
 <br>
 
