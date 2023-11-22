@@ -103,13 +103,19 @@
 
 ### 단어 등록하기
 
+![단어 등록](/image/samansa_word_register.png)
+
 ### 검색 및 검색 결과
 
 ![검색 페이지](/image/samansa_search.gif)
 
 ### 색인 기능으로 단어 검색하기
 
+![색인 기능](/image/samansa_index.png)
+
 ### 좋아요, 싫어요로 단어 평가하기
+
+![색인 기능](/image/samansa_like.png)
 
 ### 단어 삭제하기 & 신고하기 & 공유하기
 
