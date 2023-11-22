@@ -62,17 +62,17 @@
 
 ## :cactus: 빌드 환경
 
-| FrontEnd                | BackEnd                                      | Database            | Infra                        |
-| :---------------------- | :------------------------------------------- | :------------       | :--------------------------- |
-| React 18.2.0            | Java 17 (Azul Zulu version 17.0.8)           | MySQL 8.0.33        | Vultr EC2 (Ubuntu 20.04 LTS) |
-| Next.js 13.5.4          | Spring Boot 3.1.4                            | Redis 7.2.1         | Vultr Kubernetes 1.27.6      |
-| TypeScript 5.2.2        | Gradle 8.2.1                                 | Elasticsearch 8.7.1 | Nginx 1.18.0                 |
-| Recoil 0.7.7            | Spring Data JPA                              |                     | Jenkins 2.427                |
-| React-Query 5.0.5       | IntelliJ IDEA 2023.1.3<br>(Ultimate Edition) |                     | Docker latest                |
-| ModuleCSS               | lombok                                       |                     | LoadBalancer                 |
-| HTML5                   | JWT                                          |
-| yarn berry 3.6.4        |
-| node 18.17.1 LTS        |
+| FrontEnd          | BackEnd                                      | Database            | Infra                        |
+| :---------------- | :------------------------------------------- | :------------------ | :--------------------------- |
+| React 18.2.0      | Java 17 (Azul Zulu version 17.0.8)           | MySQL 8.0.33        | Vultr EC2 (Ubuntu 20.04 LTS) |
+| Next.js 13.5.4    | Spring Boot 3.1.4                            | Redis 7.2.1         | Vultr Kubernetes 1.27.6      |
+| TypeScript 5.2.2  | Gradle 8.2.1                                 | Elasticsearch 8.7.1 | Nginx 1.18.0                 |
+| Recoil 0.7.7      | Spring Data JPA                              |                     | Jenkins 2.427                |
+| React-Query 5.0.5 | IntelliJ IDEA 2023.1.3<br>(Ultimate Edition) |                     | Docker latest                |
+| ModuleCSS         | lombok                                       |                     | LoadBalancer                 |
+| HTML5             | JWT                                          |
+| yarn berry 3.6.4  |
+| node 18.17.1 LTS  |
 
 <br>
 
@@ -305,6 +305,23 @@
 
 ## :boy: 팀원
 
+<table>
+    <tr>
+        <td height="140px" align="center"> <a href="https://github.com/Juahjoah">
+            <img src="https://avatars.githubusercontent.com/Juahjoah" width="140px" /> <br><br> 👑 김주아 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/ninnistic">
+            <img src="https://avatars.githubusercontent.com/ninnistic" width="140px" /> <br><br> 🎀 박지영 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/H4R1B0">
+            <img src="https://avatars.githubusercontent.com/H4R1B0" width="140px" /> <br><br> 🐲 박현준 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/Joungwon">
+            <img src="https://avatars.githubusercontent.com/Joungwon" width="140px" /> <br><br> 🌳 석정원 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/jungmin0049">
+            <img src="https://avatars.githubusercontent.com/jungmin0049" width="140px" /> <br><br> 🧸 손정민 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/hwanheeisjoy">
+            <img src="https://avatars.githubusercontent.com/hwanheeisjoy" width="140px" /> <br><br> 🦦 조환희 <br>(Back-End) </a> <br></td>
+    </tr>
+</table>
+
 ### 팀원 역할 상세
 
 <br/>
@@ -313,16 +330,58 @@
 
 <br/>
 
-<br/>
-
-[🔼 목차로 돌아가기](#목차)
+## :mega: 소감
 
 <br/>
 
-<br/>
-
-[🔼 목차로 돌아가기](#목차)
+### 😊 김주아
 
 ```
 
 ```
+
+### 😎 박지영
+
+```
+
+```
+
+### 🍇 박현준
+
+```
+
+```
+
+### 🏡 석정원
+
+```
+
+```
+
+### 🥳 손정민
+
+```
+
+```
+
+### 👶 조환희
+
+```
+
+```
+
+<br/>
+
+## :seedling: 회고 기록
+
+### [2주차 회고😁](/retrospective/2주차회고.md)
+
+### [3주차 회고🤒](/retrospective/3주차회고.md)
+
+### [4주차 회고🤭](/retrospective/4주차회고.md)
+
+### [5주차 회고🤩](/retrospective/5주차회고.md)
+
+<br/>
+
+[🔼 목차로 돌아가기](#목차)
